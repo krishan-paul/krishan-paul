@@ -21,6 +21,6 @@
 - end-to-end incident lifecycle management across multi-site enterprise environments
 
 ### currently
-- open to remote Technical Support Engineer roles with developer-first, remote-first companies
+- open to remote Senior Technical Support Engineer roles with developer-first, remote-first companies
 - based in Malaysia, APAC (UTC+8)
 - reach me at krispaul.inbox@gmail.com
