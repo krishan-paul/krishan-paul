@@ -29,12 +29,24 @@ I'm **Krishan Paul**, a Senior Technical Support Engineer focused on **Developer
 ![Temporal](https://img.shields.io/badge/Temporal-000000.svg?style=flat&logo=temporal&logoColor=white)
 ![GitHub Issues](https://img.shields.io/badge/GitHub%20Issues-181717.svg?style=flat&logo=github&logoColor=white)
 
-**Query:**
+**Scripting & Query:**
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25.svg?style=flat&logo=gnu-bash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=flat&logo=postgresql&logoColor=white)
+
+**Tools & Collaboration:**
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=flat&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white)
+
+**Currently Learning:**
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC.svg?style=flat&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=flat&logo=github-actions&logoColor=white)
 
 ---
 
-## timeline highlights
+## Timeline Highlights
 
 *2023 - now:*
 - founding APAC support engineer at Xsolla's Cloud Gaming platform
@@ -56,7 +68,7 @@ I'm **Krishan Paul**, a Senior Technical Support Engineer focused on **Developer
 - desktop support engineer at PCCW Solutions
 - end-to-end incident lifecycle management across multi-site enterprise environments
 
-### currently
+### Currently
 - open to remote Senior Technical Support Engineer roles with developer-first, remote-first companies
 - based in Malaysia, APAC (UTC+8)
 - reach me at krispaul.inbox@gmail.com
@@ -65,7 +77,9 @@ I'm **Krishan Paul**, a Senior Technical Support Engineer focused on **Developer
 
 ## 🎓 Education
 
-- **Oklahoma State University**
+**Oklahoma State University**
+Bachelor of Science in Business Administration (BSBA)
+Major in Management Information Systems (MIS)
 
 ---
 
